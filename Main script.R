@@ -1,12 +1,9 @@
 # Load necessary libraries
 library(tidyverse)
 library(lubridate)
-library(viridis)
 library(ggplot2)
 library(ggrepel)
-library(gt)
-library(zoo)
-library(gridExtra)
+
 
 # Set working directory and paths
 WD <- getwd()
